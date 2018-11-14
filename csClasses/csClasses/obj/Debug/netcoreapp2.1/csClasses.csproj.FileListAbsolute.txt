@@ -1,0 +1,11 @@
+/Users/dirkvancouver/Desktop/Projects/c#practice/csClasses/csClasses/csClasses/obj/Debug/netcoreapp2.1/csClasses.csprojAssemblyReference.cache
+/Users/dirkvancouver/Desktop/Projects/c#practice/csClasses/csClasses/csClasses/obj/Debug/netcoreapp2.1/csClasses.csproj.CoreCompileInputs.cache
+/Users/dirkvancouver/Desktop/Projects/c#practice/csClasses/csClasses/csClasses/obj/Debug/netcoreapp2.1/csClasses.AssemblyInfoInputs.cache
+/Users/dirkvancouver/Desktop/Projects/c#practice/csClasses/csClasses/csClasses/obj/Debug/netcoreapp2.1/csClasses.AssemblyInfo.cs
+/Users/dirkvancouver/Desktop/Projects/c#practice/csClasses/csClasses/csClasses/bin/Debug/netcoreapp2.1/csClasses.deps.json
+/Users/dirkvancouver/Desktop/Projects/c#practice/csClasses/csClasses/csClasses/bin/Debug/netcoreapp2.1/csClasses.runtimeconfig.json
+/Users/dirkvancouver/Desktop/Projects/c#practice/csClasses/csClasses/csClasses/bin/Debug/netcoreapp2.1/csClasses.runtimeconfig.dev.json
+/Users/dirkvancouver/Desktop/Projects/c#practice/csClasses/csClasses/csClasses/bin/Debug/netcoreapp2.1/csClasses.dll
+/Users/dirkvancouver/Desktop/Projects/c#practice/csClasses/csClasses/csClasses/bin/Debug/netcoreapp2.1/csClasses.pdb
+/Users/dirkvancouver/Desktop/Projects/c#practice/csClasses/csClasses/csClasses/obj/Debug/netcoreapp2.1/csClasses.dll
+/Users/dirkvancouver/Desktop/Projects/c#practice/csClasses/csClasses/csClasses/obj/Debug/netcoreapp2.1/csClasses.pdb

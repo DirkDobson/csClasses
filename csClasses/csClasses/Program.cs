@@ -1,28 +1,25 @@
 ﻿using System;
 
 namespace csClasses
-{
+{   
+    public class Person
+    {
+        public string FirstName;
+        public string LastName;
+
+        public void Introduce()
+        {
+            Console.WriteLine("My name is " + FirstName + " " + LastName);
+        }
+    }
     class Program
     {
         static void Main(string[] args)
         {
-            public class Person
-            {
-                public string Name;
-
-                public void Introduce()
-                {
-                    Console.WriteLine("Hi, my name is " + Name);
-                }
-            }
-
-            public class Adder
-            {
-                public int Add(int a, int b)
-                {
-                return a + b;
-                }
-            }
+            var john = new Person();
+            john.FirstName = "John";
+            john.LastName = "Smith";
+            john.Introduce();
         }
     }
 }
