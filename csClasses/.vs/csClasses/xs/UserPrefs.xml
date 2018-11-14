@@ -1,7 +1,10 @@
 ﻿<Properties StartupConfiguration="{0BC7197C-F5B0-4F5A-9A66-55675F138416}|Default">
-  <MonoDevelop.Ide.Workbench ActiveDocument="csClasses/Program.cs">
+  <MonoDevelop.Ide.Workbench ActiveDocument="csClasses/Math.cs">
     <Files>
-      <File FileName="csClasses/Program.cs" Line="16" Column="11" />
+      <File FileName="csClasses/Program.cs" Line="4" Column="5" />
+      <File FileName="csClasses/Person.cs" Line="13" Column="6" />
+      <File FileName="csClasses/Calculator.cs" Line="1" Column="1" />
+      <File FileName="csClasses/Math.cs" Line="1" Column="1" />
     </Files>
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
@@ -10,5 +13,5 @@
   </MonoDevelop.Ide.DebuggingService.Breakpoints>
   <MonoDevelop.Ide.DebuggingService.PinnedWatches />
   <MultiItemStartupConfigurations />
-  <MonoDevelop.Ide.ItemProperties.csClasses PreferredExecutionTarget="MonoDevelop.Default" FirstBuild="True" />
+  <MonoDevelop.Ide.ItemProperties.csClasses PreferredExecutionTarget="MonoDevelop.Default" />
 </Properties>
