@@ -1,5 +1,5 @@
 ﻿using System;
-using csClasses.Calculator;
+using csClasses.Math;
 namespace csClasses
 {   
     class Program
@@ -12,6 +12,8 @@ namespace csClasses
             john.Introduce();
 
             Calculator calculator = new Calculator();
+            var result = calculator.Add(1, 2);
+            Console.WriteLine(result);
         }
     }
 }

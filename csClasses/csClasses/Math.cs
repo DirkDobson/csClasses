@@ -1,7 +1,7 @@
 ﻿using System;
 namespace csClasses.Math
 {
-    class Math
+    public class Math
     {
 
     }
